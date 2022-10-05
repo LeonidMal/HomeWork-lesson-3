@@ -5,3 +5,9 @@ git init - инициализация репозитория
 git status - статус репозитория
 
 git add "file name" - добавить файл
+
+git commit -m "comment"- сохранение (комментарий)
+
+git log - журнал изменений
+
+git checkout - переход к нужному сохранению
