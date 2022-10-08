@@ -16,8 +16,8 @@
 
 * git --version - *версия Git*
 
-* clear 
+* clear - очистка репозитория
 
-* git branch
+* git branch - список веток
 
-* git branch -d
+* git branch -d - удаление ветки
