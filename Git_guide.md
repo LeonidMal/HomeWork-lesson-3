@@ -16,8 +16,10 @@
 
 * git --version - *версия Git*
 
-* clear 
+* clear - очистка терминала
 
 * git branch
 
 * git branch -d
+
+* git branch "имя ветки" - создание ветки
