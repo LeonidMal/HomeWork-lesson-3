@@ -15,3 +15,9 @@
 * git diff - *разница между текущим и сохраненным файлом*
 
 * git --version - *версия Git*
+
+* clear 
+
+* git branch
+
+* git branch -d
